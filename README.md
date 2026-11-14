@@ -15,7 +15,7 @@
 
 | সপ্তাহ | বিষয় | কাজের লিংক |
 |-------|-------|-----------|
-| ১ | Data Engineering-এর বেসিক, Linux কমান্ড লাইন | [লিংক](#) |
+| ১ | Data Engineering-এর বেসিক, Linux কমান্ড লাইন | [লিংক](week-02/linux-commands.md) |
 | ২ | Git ও GitHub, Python শুরু | [লিংক](#) |
 
 ---
